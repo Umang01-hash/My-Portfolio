@@ -1,0 +1,14 @@
+
+
+.jumbostyle{
+    background: rgb(4,107,99);
+background: linear-gradient(71deg, rgba(4,107,99,1) 1%, rgba(2,22,50,1) 80%);
+    
+  }
+
+  .custom-img {
+ 
+    object-fit:cover;
+  }
+
+
